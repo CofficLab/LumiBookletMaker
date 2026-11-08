@@ -1,5 +1,7 @@
 # LumiBookletMaker
 
+📖 English | [中文版](README_zh.md)
+
 Shared Booklet Maker domain logic for Lumi and GameFactory.
 
 ## Current scope
