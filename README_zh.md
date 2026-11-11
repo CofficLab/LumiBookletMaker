@@ -1,6 +1,6 @@
 # LumiBookletMaker
 
-📖 [中文版](README_zh.md) | [English](README.md)
+📖 English | [中文版](README_zh.md)
 
 Lumi 与 GameFactory 共享的 Booklet Maker 领域逻辑。
 
